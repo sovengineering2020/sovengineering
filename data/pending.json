@@ -1,0 +1,11 @@
+{
+  "format": "sov-business-json",
+  "version": 2,
+  "algorithm": "aes-256-gcm",
+  "keyId": "38982efea8eeccc7",
+  "kdf": "scrypt-v1",
+  "kdfSalt": "9jFHo703OwEVD3tIiR2Nig==",
+  "iv": "thtmbKhlwk+1+MhD",
+  "tag": "9T7Rq5LZ2liIK3gmbFFdoQ==",
+  "ciphertext": "RLYZd/HSjIQv0oysPCesuoLp/3VIb0pAe4AstIkhR3l6wBuyl1PFHOnCivplXKxae/VGFG+lZQq0kEDlW6k9A0tilCnevbaIvlHpreCGkUeFAg=="
+}

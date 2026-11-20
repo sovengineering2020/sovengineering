@@ -1,0 +1,1067 @@
+{
+  "version": 1,
+  "createdAt": "2026-10-27T08:10:36.925Z",
+  "repository": "lovelymari121201-bit/sovengineering",
+  "backupFolder": "backup",
+  "sourceRoot": "data/csv",
+  "fileCount": 150,
+  "files": [
+    {
+      "path": "data/csv/daily/previous-pending.json",
+      "sourcePath": "daily/previous-pending.json",
+      "size": 160682,
+      "sha256": "e0a1cdc77e386839a46bcd83de5660fd017ad4e737c59e7a0d70c22f0f9e6525",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/employees.json",
+      "sourcePath": "employees.json",
+      "size": 2078,
+      "sha256": "e6796b37ab96067cafac6c7a8ee635e181c07235726762b2b979ef00f9c6ea27",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/_migration/fl_attendance.json",
+      "sourcePath": "operational-json/_migration/fl_attendance.json",
+      "size": 473,
+      "sha256": "e2cfffec14ff70cf3b1fa4b248bdf70d2cff319ce5a3a8f8f4677bb435dd0630",
+      "recordCount": 18
+    },
+    {
+      "path": "data/csv/operational-json/_migration/fl_employees.json",
+      "sourcePath": "operational-json/_migration/fl_employees.json",
+      "size": 495,
+      "sha256": "90ae85bee7c663a6c56ee5a476faddb87311d3ce80c920af9b67b363857b0dee",
+      "recordCount": 19
+    },
+    {
+      "path": "data/csv/operational-json/_migration/fl_finance.json",
+      "sourcePath": "operational-json/_migration/fl_finance.json",
+      "size": 462,
+      "sha256": "173976413d4fa569e449c6de8701280894cfe533352e0f782fd26be3b255d1db",
+      "recordCount": 18
+    },
+    {
+      "path": "data/csv/operational-json/_migration/fl_invoices.json",
+      "sourcePath": "operational-json/_migration/fl_invoices.json",
+      "size": 471,
+      "sha256": "8a40ae708bab79995fbb2ee716053c64f39a04dab3dc7fa52f0eca1dd6531a4a",
+      "recordCount": 18
+    },
+    {
+      "path": "data/csv/operational-json/_migration/fl_leaves.json",
+      "sourcePath": "operational-json/_migration/fl_leaves.json",
+      "size": 461,
+      "sha256": "6494904438dfeebf9b5f20eb104bb83f2abd5972ec7a5c1ff1066ce19c055e1d",
+      "recordCount": 18
+    },
+    {
+      "path": "data/csv/operational-json/_migration/fl_permissions.json",
+      "sourcePath": "operational-json/_migration/fl_permissions.json",
+      "size": 466,
+      "sha256": "ca9c2127794f4cfdaca2d30ab51093ca494fc946a4f298e33616d44b8c0441bd",
+      "recordCount": 18
+    },
+    {
+      "path": "data/csv/operational-json/_migration/fl_powercuts.json",
+      "sourcePath": "operational-json/_migration/fl_powercuts.json",
+      "size": 464,
+      "sha256": "e9c1b49bcc873d08907bf7f643b9bb5e7c07a7794907bccaa922c500891ffb52",
+      "recordCount": 18
+    },
+    {
+      "path": "data/csv/operational-json/_migration/fl_sundayot.json",
+      "sourcePath": "operational-json/_migration/fl_sundayot.json",
+      "size": 463,
+      "sha256": "995b6e745d18c526a9c290aa0098d00f086bb14546f346fad4c37554f116e26c",
+      "recordCount": 18
+    },
+    {
+      "path": "data/csv/operational-json/_migration/fl_workhistory.json",
+      "sourcePath": "operational-json/_migration/fl_workhistory.json",
+      "size": 474,
+      "sha256": "f2a7a85aac557342a0a5a44d8559ed18277630a3058d598f9144dbb3d0cbb7d5",
+      "recordCount": 18
+    },
+    {
+      "path": "data/csv/operational-json/_migration/fl_workorders.json",
+      "sourcePath": "operational-json/_migration/fl_workorders.json",
+      "size": 473,
+      "sha256": "f01a12ecf3651b90190e2d3f66e29f34a204a9756a9b27b534c9d8bd0834d96d",
+      "recordCount": 18
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0000.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0000.json.enc",
+      "size": 274,
+      "sha256": "638266cf880213926d325066dac5e929ad16eadcd80181736bdad226ceae7b49",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0001.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0001.json.enc",
+      "size": 546,
+      "sha256": "8b7448df7ce9b22fae8c231ab8a542098c1722b9718629a8bda67907a86b336f",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0003.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0003.json.enc",
+      "size": 310,
+      "sha256": "1972aa72c70c49cb1ef05006c312968fc1cb3bff400a2f4e05c391d19cbf4fce",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0005.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0005.json.enc",
+      "size": 602,
+      "sha256": "d86445539a328776e9e3e27033ee53103ce90e1ac7270c417dfdcc9cd24cad8e",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0011.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0011.json.enc",
+      "size": 326,
+      "sha256": "8144f71a962aedd2e5bdf5733c05dc9ca26474e7356ff3600108ad60306e976f",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0017.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0017.json.enc",
+      "size": 322,
+      "sha256": "23bd601b1144993b95c57ae61a816955da980fa51dd2bae8ac62730fb52f2d8e",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0020.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0020.json.enc",
+      "size": 594,
+      "sha256": "7f79e324e5ce4d92c2f01bb682ffb1faf344a959ae2594bc3e232c2f5ba1c0d7",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0035.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0035.json.enc",
+      "size": 602,
+      "sha256": "2450d003b62487b6dfb5b20b287f3c1e4acd020c1a04b0a5e28e1c011c3e12e6",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0041.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0041.json.enc",
+      "size": 326,
+      "sha256": "9442e9e30d8013903c89dfcaa52e3eba7d0668945ee67436760933b02434564a",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0045.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0045.json.enc",
+      "size": 326,
+      "sha256": "c1938c6ef2cb0b451965bb3c32a15385b04a6ca3b51e3a5655f88db100530f03",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0047.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0047.json.enc",
+      "size": 310,
+      "sha256": "0125175a55cd072113b0b3a791220b5c888aa5ed212ebd094b24080c068986de",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0057.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0057.json.enc",
+      "size": 330,
+      "sha256": "b6aa9b69317971653ec7da4c4f1d68152226023c4605a84afc4cd223c8143831",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0061.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0061.json.enc",
+      "size": 326,
+      "sha256": "d777bbc4e2b96150dc527a1e3401c9643e6c43abbce0a3e515fc6b90ce7efed1",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0062.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0062.json.enc",
+      "size": 330,
+      "sha256": "40f9f8a38ccfa23460fe25844a11fe5b995460eb7da08ee294add3758c024566",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0063.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0063.json.enc",
+      "size": 322,
+      "sha256": "75c316fc281514ff783b343dcc93a34fee834e454fd94d61dd638c5fd969738f",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0068.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0068.json.enc",
+      "size": 274,
+      "sha256": "86de2abaf74efca47cdc11b27a6f96f955d224b7f6a93ae271480f64abc03562",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0080.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0080.json.enc",
+      "size": 330,
+      "sha256": "b98d0f74dea9e2c44d041a0aa45c81522b0c50139822f792690abbf7c1c5d1a5",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0091.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0091.json.enc",
+      "size": 322,
+      "sha256": "5e573d83ccbd9b64fca5eb9b1f98f342da699e7e255feb3eee1deff239f3fb4b",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0095.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0095.json.enc",
+      "size": 326,
+      "sha256": "893c57b63ba6c4b415d0c9506de9ea5c4aedbc0d8a2fd061eb633c7d1c2e399f",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0100.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0100.json.enc",
+      "size": 818,
+      "sha256": "8b97f14b689445577db67df8b75de19b6bd8a7059c76c2ca3b1e1bbd3aff1a52",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0102.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0102.json.enc",
+      "size": 326,
+      "sha256": "ef08c963030c1221e00ef5216e2180f41be1aee2da48e89f3420bb8f1647ce41",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0103.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0103.json.enc",
+      "size": 322,
+      "sha256": "4654c4b1a7b64ec78addf03616e643fba2597e6ff7a8d0a9892012e800f3d9e1",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0107.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0107.json.enc",
+      "size": 326,
+      "sha256": "f829e2a2cbbcfc54106644660be75823483116fe4d8b258e1ea343572646990e",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0108.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0108.json.enc",
+      "size": 322,
+      "sha256": "57bddb85c1f3b08c3bdbe619bf8870c1e269462bcaf2e9f53829da0eea55e4d0",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0112.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0112.json.enc",
+      "size": 278,
+      "sha256": "f8cfc933e5d9a377afd1169864c8b6ebd2ccc0df77ebbfc0c17667d83c379cbc",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0117.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0117.json.enc",
+      "size": 326,
+      "sha256": "d382a3b202d02c85dd24307e722e9ecc877f5446ead82d69b334cedcf3500ae0",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0118.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0118.json.enc",
+      "size": 330,
+      "sha256": "e1a018096f38056a3f6a12470da50b64fb68f712a76255d53ff6015626b6a386",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0129.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0129.json.enc",
+      "size": 330,
+      "sha256": "354a95ee1ca9590d6298be38adbd1ef5e9cb074aeac395eb7510295c5f11315e",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0138.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0138.json.enc",
+      "size": 310,
+      "sha256": "7b9d9a220c875a1da07636dd02dfd645ed86affdc6779b548a2f400003814749",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0143.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0143.json.enc",
+      "size": 326,
+      "sha256": "48babcca621ea734cb2b15cad5f71415bb6ad4e3b6acb05a876286b6358382a7",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0144.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0144.json.enc",
+      "size": 274,
+      "sha256": "f233064aadcbeba2d5517b0222de81e02d8684be40c48679bc5bc4f1281ded9a",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0148.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0148.json.enc",
+      "size": 326,
+      "sha256": "7ad2619755c226163d5d6e5c5412b7b0418ce597b7ef816ea007b3b8d2ef841f",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0152.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0152.json.enc",
+      "size": 598,
+      "sha256": "c9d69bf48c66fa3cf3e6dc9e8aef2093c208353425fa2aaed1e2b9e37a873318",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0163.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0163.json.enc",
+      "size": 582,
+      "sha256": "9a3c24f63a2ef376ba9e9fc51aaa2e8eb2eb67e285072ae799d7c851e3fa44dc",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0175.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0175.json.enc",
+      "size": 322,
+      "sha256": "92e8186a61f31f349b51b860106dbdb9b9184db508f6b3ef28cc9ff91cde322a",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0178.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0178.json.enc",
+      "size": 318,
+      "sha256": "bb29aa54443bbe00e84bd20e03e6216abf447bb0b362e465b7f808feebd689bc",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0185.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0185.json.enc",
+      "size": 326,
+      "sha256": "099229db231e47cb537bbe40278dd0f48acbafad566a395f1651c2f3d7d2a849",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0186.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0186.json.enc",
+      "size": 330,
+      "sha256": "dcbb54bd7aaea86dd4c1eb245d132a8d7337bbe365d9ea00e9e8f6babd330bf6",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0187.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0187.json.enc",
+      "size": 330,
+      "sha256": "b9c04cbd47128e490d6bd9b5cda9c77cfa85848f0b6d5be64344b97f95224d4e",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0188.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0188.json.enc",
+      "size": 322,
+      "sha256": "8dd8195d46898e943809f2a114c1ce2c8b4761297964765adb3fd23a4f88c0e4",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0190.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0190.json.enc",
+      "size": 526,
+      "sha256": "7f56d61d363a733efa8b972262773bb97cf66264ea3150dc9e433a7aa39fc006",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0191.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0191.json.enc",
+      "size": 326,
+      "sha256": "38c30477fa0eb4650b8027d0613ee5bbc48dfe1817584b6a24740a5394f91101",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0192.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0192.json.enc",
+      "size": 602,
+      "sha256": "fe76ee3837bd36162810d812579c7271d950832b01f35d89d13cf64e90087be1",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0199.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0199.json.enc",
+      "size": 330,
+      "sha256": "a095c506208809078786fc3214d8203158c2c06f41ca5e1a9b6b5bbc5d01b777",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0201.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0201.json.enc",
+      "size": 274,
+      "sha256": "62af8bca81d41e962bfae885bed603713d7d5cfa566f8eeadd0f395f383071a4",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0207.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0207.json.enc",
+      "size": 326,
+      "sha256": "62c543d0f400d1905a6866986691b35ea4fd39c9fc70aaa730a421d8d1292d9d",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0217.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0217.json.enc",
+      "size": 326,
+      "sha256": "5a6e4097fe045cf02cd1f06caa189256f15ae9ea67a19160efbad6694c200a83",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0225.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0225.json.enc",
+      "size": 322,
+      "sha256": "3123d359dac3bb05c636b67f9c4ef9f7f073d83b6d41284d555fd160cec2d174",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0227.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0227.json.enc",
+      "size": 330,
+      "sha256": "5ddeeddef4204d62b707d0c3e7f7c4059196524fa8eb4e4b28f264f4086b0d5b",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0233.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0233.json.enc",
+      "size": 254,
+      "sha256": "6a218c4d4c3a691c89c1769443f6cb9231e2e4d7951595b1724a1ececa663d9a",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0239.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0239.json.enc",
+      "size": 330,
+      "sha256": "b0472dd97380491729734013ce1594ac0185bb238ff9d4fa44986fff4f9befe4",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0246.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0246.json.enc",
+      "size": 318,
+      "sha256": "4f5d922443c07e3546b88f9100d4dbdada478c91b0ca1a03909f721d353643e7",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0251.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0251.json.enc",
+      "size": 326,
+      "sha256": "6fd22d9306ff185a72931ac6d364097cfbcba6bb49850348d0a0c78972d52cd8",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_attendance/2026/10/0255.json.enc",
+      "sourcePath": "operational-json/fl_attendance/2026/10/0255.json.enc",
+      "size": 326,
+      "sha256": "3a0442c97f02eb9772f99162d0a9fff7f059dc364600ae5b5bc724bc4115ba8a",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_finance/2026/10/0156.json.enc",
+      "sourcePath": "operational-json/fl_finance/2026/10/0156.json.enc",
+      "size": 310,
+      "sha256": "bdad26908586ef490162158c3a9ddb0052fe5e28072509812b82b4f88cc6556d",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_finance/2026/10/0217.json.enc",
+      "sourcePath": "operational-json/fl_finance/2026/10/0217.json.enc",
+      "size": 470,
+      "sha256": "909e9f6299a09c22102d670b31b678bcaded675220ad28b389a9089007137504",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/08/0010.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/08/0010.json.enc",
+      "size": 1586,
+      "sha256": "abc4cf4e1d52086ab63d1eea57c772b9b19906f156c27684039fdd541dca56a3",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/08/0017.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/08/0017.json.enc",
+      "size": 774,
+      "sha256": "940df2b2fd9a19649f578d28a7efe165f0ceed5ac5276e4da161ad7af2b63c99",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/08/0052.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/08/0052.json.enc",
+      "size": 946,
+      "sha256": "b73254d633213992402d79c50f16018484eaf254498f3f900660dac1e2aab4fc",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/08/0062.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/08/0062.json.enc",
+      "size": 778,
+      "sha256": "eb1e9c1ff5354a17a9b110f6baf197e0d4a51976f6c2930a8b9d4127c151f522",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/08/0087.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/08/0087.json.enc",
+      "size": 946,
+      "sha256": "e8adad29dcc113bffba85b2d3bd21cefa335b72ddd032aa589e8fdd6e8d3e970",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/08/0097.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/08/0097.json.enc",
+      "size": 786,
+      "sha256": "9bc9fc6674070d61a322ba00d68b06684a16b381ab6a75f83c6c5df4524dfa49",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/08/0104.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/08/0104.json.enc",
+      "size": 794,
+      "sha256": "ef44556789b0d4a38a87de3c615fc8a8ba31884e1886b868d303217c2a6febe4",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/08/0137.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/08/0137.json.enc",
+      "size": 778,
+      "sha256": "ddb2e628729c0e5dfcd35fbd7cda0d47500c1e4fd53d916bf7ea3a02132a6824",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0009.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0009.json.enc",
+      "size": 1894,
+      "sha256": "144e480c94e848cae4d76cd0b25784c599bdc36113ad9153559cbb7e7685abcb",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0022.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0022.json.enc",
+      "size": 1166,
+      "sha256": "8b58c0a56b30daa9918674a6cd8e996c145dba2883adb6913325f3794f4e50e0",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0031.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0031.json.enc",
+      "size": 746,
+      "sha256": "918b70035978af936a7e44f8f69c8d4de706fab2760ed8859483dcccd7cb459d",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0037.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0037.json.enc",
+      "size": 1170,
+      "sha256": "e984c98752f5a80fd905badacd994e7f69cff9fa81699fdac71de6ffe0a8fe9e",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0046.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0046.json.enc",
+      "size": 882,
+      "sha256": "fbce52f915b4f4ac52f569256b8dfb47bfa2ea8a0fc23bcbbda0a1ced90ea423",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0048.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0048.json.enc",
+      "size": 1934,
+      "sha256": "51f4d19ec7e4c654d1a61185c39d0ddb21410a0d3cd16a2a69c2e05d910be4be",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0066.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0066.json.enc",
+      "size": 1170,
+      "sha256": "9e777265a386ea4452ef1d8cd9f31d355ea01234d8f2d56c80d0a58b2f80e086",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0154.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0154.json.enc",
+      "size": 1138,
+      "sha256": "1304f018dfa85f2e84a48a5807ff87fcf2b17de78836b456aac4d1068b5a9151",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0158.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0158.json.enc",
+      "size": 1454,
+      "sha256": "0cac3cb6791a2bef140fe9cf445c3d597683b7ce47f067580adc84f2b3aa9c9c",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0165.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0165.json.enc",
+      "size": 1494,
+      "sha256": "846606f52b96a8c48abf587c2d98361e695b00c2f520dece090d62f7135efb6e",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0172.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0172.json.enc",
+      "size": 950,
+      "sha256": "60d9afe60af1f5614e4bcf092da6bfad20fe48562f65fd8768f1f1a678204297",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0192.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0192.json.enc",
+      "size": 1090,
+      "sha256": "3f59785bf1bf696a1880b45402221f35545339fe88e5043e94a70be8d9e9b800",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0193.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0193.json.enc",
+      "size": 1454,
+      "sha256": "729d9939df9d476bab79e023cd84ec8e2ee19acfb6bf8ac8139990a17477d979",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/09/0234.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/09/0234.json.enc",
+      "size": 882,
+      "sha256": "24a31ff011536b4f7115e142ca894a7fa69afb9e1d4fbb85e8b1b0e9b7f845a6",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0015.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0015.json.enc",
+      "size": 1130,
+      "sha256": "252a29a0128b3f11f065819c15281814835dd5a211eaa52020f79bff6da20fa6",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0017.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0017.json.enc",
+      "size": 1598,
+      "sha256": "ebd9694481be8d2a0f10cea2f73428c238649591aba2f3931afb11e5441aaaca",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0029.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0029.json.enc",
+      "size": 1442,
+      "sha256": "91c9c741dbf39e88a23837b0a155a7d15f169f03b7e70852a06ffeaae04b4b2d",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0037.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0037.json.enc",
+      "size": 1734,
+      "sha256": "8f465cfdd82a4257642a222d417879eb20a6191969d3df7f831b01bcc2fa6806",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0045.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0045.json.enc",
+      "size": 730,
+      "sha256": "5bfc7597c16f9ab2ed96333bad62dab22caa3cb60f7362903ac563f8df5606c1",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0054.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0054.json.enc",
+      "size": 2742,
+      "sha256": "545c8908cab114797aaeb84a91e1347b0a7ff7b705c3757009ca71a185433cfb",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0081.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0081.json.enc",
+      "size": 818,
+      "sha256": "a45b40662bcc60aa6e028772092a4ee0b4bce3c0f33d7efec1755918d8114b7a",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0087.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0087.json.enc",
+      "size": 1458,
+      "sha256": "267cb6064f595a14aac69d770c5fb05d6f666620dac424577681e81c004a247a",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0090.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0090.json.enc",
+      "size": 678,
+      "sha256": "400ed1971131d4b1b23afa9439655054f8218ef2a9cafbf9771c845bb77a813e",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0094.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0094.json.enc",
+      "size": 730,
+      "sha256": "a00539fa8cf6cd99d13c5950ceb6fd886c69804ab6bfd67ee4b7fa17f5154ba4",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0123.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0123.json.enc",
+      "size": 878,
+      "sha256": "9c9f87cf85dbe031f11911ea3764eb5211259c7036b199c548e04bba45d32cb3",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0136.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0136.json.enc",
+      "size": 750,
+      "sha256": "c60224363dfefea274b09ac4666d08f182cc17a3fcc2c75c4f35ea18758955f9",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0142.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0142.json.enc",
+      "size": 818,
+      "sha256": "287990a1883fc25d8045b6a4e9b5698ca3a1ee9b4d763ed6fb50b707722c13a6",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0193.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0193.json.enc",
+      "size": 806,
+      "sha256": "ae89318c35959fe784cc701e7a7209d73e2da683654760249cb399031f4a6f3f",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0195.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0195.json.enc",
+      "size": 854,
+      "sha256": "0a172bff63843e185ea1bd4a1f842f43ddeeeb75ae0d47db38da7c09dc3f96c8",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0207.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0207.json.enc",
+      "size": 962,
+      "sha256": "8d0842d2de5b92d77bec61e7991cb15ededbf2cba3dec5285a6655912aec71fb",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0221.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0221.json.enc",
+      "size": 958,
+      "sha256": "57a071ab83c323f8e82fa2d1d0ade42265e490b7cd818ab00766d31f70f8729c",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0227.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0227.json.enc",
+      "size": 1706,
+      "sha256": "a401f7f02872d54c1d80d620b3e3ca593b8b9306aab0897dd417896eaa07a7a6",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0241.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0241.json.enc",
+      "size": 1562,
+      "sha256": "e70fcbe830e83f71c8cf63716571143a74dddf4cbb1dae89d246c816717cf906",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0246.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0246.json.enc",
+      "size": 1454,
+      "sha256": "05c75d03cf2f703374b86b39eb64d90100768617f9134b590a313f5c559f11b8",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_invoices/2026/10/0255.json.enc",
+      "sourcePath": "operational-json/fl_invoices/2026/10/0255.json.enc",
+      "size": 930,
+      "sha256": "1a87d9f6a6c1f7d1ce99ef1a6809e2dcb94a6bbe5c9f4eaed205027d86e47a2f",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_leaves/2026/10/0052.json.enc",
+      "sourcePath": "operational-json/fl_leaves/2026/10/0052.json.enc",
+      "size": 486,
+      "sha256": "790a8313b7e536c98c94ea6274cfab455cc9dcbc359b59476c7f4e14312607e5",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_leaves/2026/10/0117.json.enc",
+      "sourcePath": "operational-json/fl_leaves/2026/10/0117.json.enc",
+      "size": 546,
+      "sha256": "24b838af46c646a25a997947ad71edd59d7a9ead8198bf508d6d55066fc3bea7",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_powercuts/2026/10/0005.json.enc",
+      "sourcePath": "operational-json/fl_powercuts/2026/10/0005.json.enc",
+      "size": 226,
+      "sha256": "9b55bd7ee9700fbcae3740692f9f2ea16718516eaf37b59a9b8291e1d8c8701b",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_powercuts/2026/10/0035.json.enc",
+      "sourcePath": "operational-json/fl_powercuts/2026/10/0035.json.enc",
+      "size": 226,
+      "sha256": "1e7f8aa39150962d3751e9a00b1684513642f13de77320969aa10e1cdabbd800",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_powercuts/2026/10/0078.json.enc",
+      "sourcePath": "operational-json/fl_powercuts/2026/10/0078.json.enc",
+      "size": 226,
+      "sha256": "02a6608ffaf2315779469b8c3aa34482c3d42fe7d3f444c0180306c2117e955a",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_sundayot/2026/10/0099.json.enc",
+      "sourcePath": "operational-json/fl_sundayot/2026/10/0099.json.enc",
+      "size": 226,
+      "sha256": "83f06a1e8264acf5bd8248b001a53093e9f309e96afed233905d8bdb9ae33744",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_sundayot/2026/10/0105.json.enc",
+      "sourcePath": "operational-json/fl_sundayot/2026/10/0105.json.enc",
+      "size": 290,
+      "sha256": "6fad1b4e9fb941ba47763f10985e931a58706554eac21a3023cf80aa7db6a50c",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_sundayot/2026/10/0213.json.enc",
+      "sourcePath": "operational-json/fl_sundayot/2026/10/0213.json.enc",
+      "size": 286,
+      "sha256": "d4a3d819365d9d92074028f6e2e37db1b7440cc95b842e8e6a8c1f6965598097",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workhistory/2026/10/0052.json.enc",
+      "sourcePath": "operational-json/fl_workhistory/2026/10/0052.json.enc",
+      "size": 53842,
+      "sha256": "bbaa1f5c3e6a0a7674ad37c055b76f1e58e500d4567948334c6d729c82363f35",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workhistory/2026/10/0065.json.enc",
+      "sourcePath": "operational-json/fl_workhistory/2026/10/0065.json.enc",
+      "size": 44246,
+      "sha256": "daf59ee69cec73fbfb2b75eb188a8932ed7eff0424dd82ecdf20bb6af06e6f24",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workhistory/2026/10/0095.json.enc",
+      "sourcePath": "operational-json/fl_workhistory/2026/10/0095.json.enc",
+      "size": 42214,
+      "sha256": "95dcd57456b781e89ab0ca5ffdc541984ae7a6c050fabe54a221feaacda684e8",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workhistory/2026/10/0107.json.enc",
+      "sourcePath": "operational-json/fl_workhistory/2026/10/0107.json.enc",
+      "size": 28646,
+      "sha256": "a509c78b5ca00cdc551c9fd5d448c95ee9230ffab78d5a1769038cd76206bf48",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workhistory/2026/10/0161.json.enc",
+      "sourcePath": "operational-json/fl_workhistory/2026/10/0161.json.enc",
+      "size": 42238,
+      "sha256": "909c96d052898bd1f29a1a032d713c0c3bccc250e77254d9a701ef641fe8458d",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workhistory/2026/10/0174.json.enc",
+      "sourcePath": "operational-json/fl_workhistory/2026/10/0174.json.enc",
+      "size": 47054,
+      "sha256": "559e5e525d56ba9b595f93312993c178ebdcf2be58d0f20189f5609b0118bfb6",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workhistory/2026/10/0187.json.enc",
+      "sourcePath": "operational-json/fl_workhistory/2026/10/0187.json.enc",
+      "size": 59858,
+      "sha256": "b254a1c9622d3f6eeec26eeadbd210aec18973abc27bf3d2e1f729a6f3af67d9",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workhistory/2026/10/0190.json.enc",
+      "sourcePath": "operational-json/fl_workhistory/2026/10/0190.json.enc",
+      "size": 85870,
+      "sha256": "1944cc946dcc49da1779177acdc01b3216ddd0a0571def5b973a2b0a6b9026b0",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workhistory/2026/10/0222.json.enc",
+      "sourcePath": "operational-json/fl_workhistory/2026/10/0222.json.enc",
+      "size": 77130,
+      "sha256": "27c439a9b2f970452f9a507576834a781d6b26b834b7b15b5f9f344ed6e8aad2",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workhistory/2026/10/0233.json.enc",
+      "sourcePath": "operational-json/fl_workhistory/2026/10/0233.json.enc",
+      "size": 161790,
+      "sha256": "4aa822e37549e2336b13a44945f7187851c482b25d1a87ba01a4c4c2ca5c8d0a",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workhistory/2026/10/0241.json.enc",
+      "sourcePath": "operational-json/fl_workhistory/2026/10/0241.json.enc",
+      "size": 75946,
+      "sha256": "e2c7760a71ae20c9b0ee8431c4da845b7e051df9026b25591c502478a0c6c2cd",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0011.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0011.json.enc",
+      "size": 974,
+      "sha256": "92bdf5af6777ad3d7ddd1807799e245e98db2f6c17fd5f75110ba542818e1506",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0034.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0034.json.enc",
+      "size": 52706,
+      "sha256": "dd166512d0c8f87be9215d2b9b90afd29ec08ad34201125a55a9aedc554b966a",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0052.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0052.json.enc",
+      "size": 53718,
+      "sha256": "d0ff81d8869568b9244e80013f5065accc9105052f226851bd002ec837d0b478",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0065.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0065.json.enc",
+      "size": 44122,
+      "sha256": "1ebf594e929aa889324362b4c364ea03c2d3e459e52dae472bc39f622aa82c42",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0087.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0087.json.enc",
+      "size": 53706,
+      "sha256": "f3c6bd6512babf432209dee8196f2f3f6081810740e3085e8577a0caae7f854d",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0095.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0095.json.enc",
+      "size": 42086,
+      "sha256": "b77be249bb30cfcefca44aa3e7e89704634a5184d04bfc9d572739b933d7171f",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0098.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0098.json.enc",
+      "size": 1370,
+      "sha256": "cb1cb518d84ebcef6daaf733e3fdb7ad921b507a6970355f2b18bf348feb66ed",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0103.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0103.json.enc",
+      "size": 90022,
+      "sha256": "27daf26405bc5fa932ca0ad923278ac0d01e93c53ffb50ac35b7f6a53e31cd84",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0107.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0107.json.enc",
+      "size": 28522,
+      "sha256": "a53c5e773cc0b697fb7bb6809a5a39ed1de3c29ce0681fafbe171acd9700637d",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0118.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0118.json.enc",
+      "size": 1850,
+      "sha256": "04378960db30ef6e1d8607f3ffde8598af5f038e41e3847acf96f0d1c8a243f6",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0161.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0161.json.enc",
+      "size": 42114,
+      "sha256": "c1421e3ec7123601d88318d5dcc70df82f00b63bf90692dbe0b82ba26e6abd99",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0174.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0174.json.enc",
+      "size": 46930,
+      "sha256": "79be3962bd5825fb435dbc7d80c62e4c48aa0bb2e0911d1c4e91e1189b7e6515",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0184.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0184.json.enc",
+      "size": 49850,
+      "sha256": "7d5290f43d1514d6606fd2c44545bf3e22c538732cd3384789be822eb5bf05ef",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0187.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0187.json.enc",
+      "size": 59754,
+      "sha256": "e33f9fc3706b0776cb7d230a047077ad7792b9de2af5cd6ff2b28881fcc7dd40",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0189.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0189.json.enc",
+      "size": 76434,
+      "sha256": "e69e2db2aeea85fb64d7187121855078d39a0cde43cf1a1fbe754dc619976af5",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0190.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0190.json.enc",
+      "size": 85746,
+      "sha256": "2e8c25fd537326d46ca3eea0df78530d7ae829065ec4851b92466a2e0c62fa2f",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0222.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0222.json.enc",
+      "size": 77002,
+      "sha256": "5af0aaa59f468368d1f8e6e93d00511a5ea9878c68cb3ff539a245e50331cf14",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0233.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0233.json.enc",
+      "size": 161538,
+      "sha256": "1f3b76905d7a8517cc7362bcddbc7539ae2e41ec624bd0f2d0268de6ffdc9163",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0241.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0241.json.enc",
+      "size": 75822,
+      "sha256": "bcb28be8b8bc7e06209d342a0a68e1c4d3db5f8b7f4fb5b9ba0d1e200c193e6b",
+      "recordCount": null
+    },
+    {
+      "path": "data/csv/operational-json/fl_workorders/2026/10/0253.json.enc",
+      "sourcePath": "operational-json/fl_workorders/2026/10/0253.json.enc",
+      "size": 49646,
+      "sha256": "3f6606987ac36a6eec8c07382432b7c870485beb11bca095fb722853a4895fbb",
+      "recordCount": null
+    }
+  ],
+  "sourceFilesVerified": true,
+  "verificationStatus": "source-copy-verified",
+  "archivePath": "backup/versions/2026-10-27T08-10-36-925Z/SOV_Engineering_JSON_Backup_2026-10-27_08-10.zip",
+  "archiveSize": 1593568,
+  "archiveSha256": "3283a6ff87339bd57909cdbc6704760e2efd4af43a2cfc5d3ea96831336bc954",
+  "archiveEntries": 183,
+  "githubVerificationStatus": "pending"
+}
