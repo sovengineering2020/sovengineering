@@ -4,8 +4,8 @@
   "algorithm": "aes-256-gcm",
   "keyId": "38982efea8eeccc7",
   "kdf": "scrypt-v1",
-  "kdfSalt": "tGnn20BGpTLH9KpT5rdmVA==",
-  "iv": "urLpD1U19z/SVdEC",
-  "tag": "duk86YefJVArzzwX8PgHtQ==",
-  "ciphertext": "cNXN+Xhuif/hkCLmtlINRXVkUDJ+6I+FWA0r4BRPQ07wfKs8TVKClpJ/hP/M0YWHl9Pf28JyqhnVjmxH6EAKWXdhkdOMV/5KN8ztss6LPpx2bg=="
+  "kdfSalt": "MgyptRVglVzRbZJOd16p0g==",
+  "iv": "j6cjyPB7DNVausRo",
+  "tag": "/Hr9vsZ2fR4QHx2hBfJ6HQ==",
+  "ciphertext": "OWTvTXISK0BQOJf6V0jFRvp5sgXMGX6t4OgQUQGwpHVju9C8MWB0fM4MoSkpwm1AHVycaINrJ2PV+nA+dPsgCZuQffoaH9IpCQwJdxrmQJziqA=="
 }
